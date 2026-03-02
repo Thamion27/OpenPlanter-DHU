@@ -13,3 +13,5 @@ build/
 .webui_secret_key
 FreeDHU/Audio/tracks/
 FreeDHU/Output/
+FreeDHU/Visual/frames/
+FreeDHU/Visual/synthesis/
