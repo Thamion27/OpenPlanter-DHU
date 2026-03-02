@@ -1,0 +1,21 @@
+﻿{
+  "project_name": "FreeDHU",
+  "version": "1.0.0",
+  "mode": "offline",
+  "fps": 30,
+  "resolution": "1920x1080",
+  "audio_input_dir": "./Audio/tracks",
+  "beatmap_output_dir": "./Audio/beatmap",
+  "stems_output_dir": "./Audio/stems",
+  "visual_stock_dir": "./Visual/stock",
+  "visual_frames_dir": "./Visual/frames",
+  "visual_synthesis_dir": "./Visual/synthesis",
+  "scripts_dir": "./Scripts",
+  "output_dir": "./Output",
+  "render_output_dir": "./Output/renders",
+  "logs_dir": "./Output/logs",
+  "metadata_dir": "./Output/metadata",
+  "default_model": "dolphin-llama3",
+  "cop_enabled": true,
+  "cpl_enabled": true
+}

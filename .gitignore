@@ -9,3 +9,7 @@ build/
 *.cast
 *.mp4
 .openplanter/
+
+.webui_secret_key
+FreeDHU/Audio/tracks/
+FreeDHU/Output/

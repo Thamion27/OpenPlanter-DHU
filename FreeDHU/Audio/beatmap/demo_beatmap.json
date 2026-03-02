@@ -1,0 +1,6 @@
+﻿{
+  "project": "FreeDHU",
+  "version": "1.0.0",
+  "status": "beat analyzer stub ready",
+  "next": "integrate librosa beat extraction"
+}

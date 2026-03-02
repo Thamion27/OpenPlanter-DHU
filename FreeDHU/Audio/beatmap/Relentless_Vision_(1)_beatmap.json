@@ -1,0 +1,9 @@
+{
+  "project": "FreeDHU",
+  "version": "1.0.0",
+  "source_audio": "Relentless Vision (1).wav",
+  "source_path": "C:\\Users\\rrami\\OpenPlanter\\FreeDHU\\Audio\\tracks\\Relentless Vision (1).wav",
+  "analyzed_at_utc": "2026-03-02T02:28:11.042213+00:00",
+  "status": "real track linked (beat extraction pending)",
+  "next": "integrate librosa beat tracking"
+}
