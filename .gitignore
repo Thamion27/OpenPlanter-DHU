@@ -15,3 +15,5 @@ FreeDHU/Audio/tracks/
 FreeDHU/Output/
 FreeDHU/Visual/frames/
 FreeDHU/Visual/synthesis/
+
+.venv/
